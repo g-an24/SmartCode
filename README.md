@@ -103,18 +103,7 @@ print(tokenizer.decode(outputs[0]))
 
 ---
 
-## 🌟 **Cite This Work**
 
-If you use SmartCode, please cite our project:
-
-```bibtex
-@misc{smartcode2024,
-      title={SmartCode: Adaptive Code Completion and Bug Fixing},
-      author={Ananya Kumar Gangver and Karmanya Mendiratta},
-      year={2024},
-      note={Fine-tuning LLaMA 3.1 for real-world code tasks.}
-}
-```
 
 ---
 
