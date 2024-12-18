@@ -111,6 +111,3 @@ print(tokenizer.decode(outputs[0]))
 
 **SmartCode** is your AI-powered assistant for writing cleaner, bug-free code. By combining fine-tuned LLaMA 3.1 with task-specific datasets, SmartCode simplifies debugging and code generation—saving developers time and effort.
 
----
-
-This version is concise, focused, and removes unwanted references while making it more appealing for readers. Let me know if you'd like further refinements! 🚀
